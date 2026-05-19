@@ -157,3 +157,18 @@ graph TD
     N -- Tidak --> P[Tampilkan Hasil Tabel / Sukses di Layar]
 
 ```
+
+
+
+
+
+
+
+
+
+
+**AsistControl** adalah proyek pengembang Asisten Virtual (ChatBot) pintar berbasis teks yang dirancang khusus untuk memfatilisasi kebutuhan Administrasi. **AsistControl** menggunakan bahasa **Streamlit, Python, Ollama, Qwen 2.5, dan MySQL**.
+
+ChatBot seperti ini sangat berguna bagi Mahasiswa Baru, Mahasiswa Aktif, ataupun Dosen dalam mendapatkan informasi Akademis ataupun yang lainnya dengan cara cepat.
+
+Projek ini bertujuan untuk mengatasi masalah yang ada di Administrasi. Administrasi itu **mengantri dengan sangat panjang** dan **lamanya penyebaran informasi**. Karna itulah ChatBot dibuat agar Mahasiswa, Dosen, ataupun yang lainnya dapat **melihat informasi tersebut dengan sangat cepat.**
